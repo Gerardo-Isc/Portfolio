@@ -1,0 +1,14 @@
+header{
+    position: fixed;
+    width: 100vw;
+}
+.me-header{
+    color: var(--home-menu-link-text-color);
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    
+
+    // padding: 10px 0;
+}
